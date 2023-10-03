@@ -1,4 +1,4 @@
-# teletubbies-vermelho
+# teletubbies-amarelo
 ### Boas Vindas Ao Meu Perfil
 Meu Nome é Daniel Medeiros de Lima
 
@@ -12,4 +12,4 @@ daniel.medeiros.lima@escola.pr.gov.br
 
 @d.medeirosss
 
-![.](https://media.tenor.com/4hhY3OsB_egAAAAd/teletubbies-po.gif)
+![.](https://media.tenor.com/ud80i1DyCRgAAAAd/teletubbies-laa-laa.gif)
