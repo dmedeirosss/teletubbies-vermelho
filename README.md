@@ -10,6 +10,6 @@ Meu Nome é Daniel Medeiros de Lima
 
 daniel.medeiros.lima@escola.pr.gov.br
 
-@d.medeirosss
+@d_medeirosss
 
 ![.](https://media.tenor.com/ud80i1DyCRgAAAAd/teletubbies-laa-laa.gif)
